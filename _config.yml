@@ -1,5 +1,5 @@
 
-#pygments:         true
+pygments:         true
 permalink:        pretty
 markdown:         rdiscount
 rdiscount:
@@ -34,27 +34,6 @@ project:
   #
   # Use a one-liner to describe your project
   description:    Data Analyst  |  Data Engineer  |  Data Scientist
- 
- <style type="text/css">
-
-h1.title {
-  font-size: 38px;
-  color: DarkRed;
-  text-align: center;
-}
-h4.name { /* Header 4 - and the author and data headers use this too  */
-    font-size: 18px;
-  font-family: "Times New Roman", Times, serif;
-  color: DarkRed;
-  text-align: center;
-}
-h4.description { /* Header 4 - and the author and data headers use this too  */
-  font-size: 18px;
-  font-family: "Times New Roman", Times, serif;
-  color: DarkBlue;
-  text-align: center;
-}
-</style>
 
 #
 # 4. Your Twitter handle
