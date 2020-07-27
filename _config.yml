@@ -6,7 +6,6 @@ rdiscount:
   extensions:     [smart]
 
 # ---------
----
 # Kickstarter specific settings
 #
 # Basics
@@ -35,8 +34,6 @@ project:
   #
   # Use a one-liner to describe your project
   description:    Data Analyst  |  Data Engineer  |  Data Scientist
-  
- ---
  
  <style type="text/css">
 
