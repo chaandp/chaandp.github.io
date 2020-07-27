@@ -11,29 +11,29 @@ rdiscount:
 # Basics
 #
 # 0. Page title and theme
-title:            Stair-Rover
+title:            Chaand Patel
 theme:            basic
 #
 # 1. Your website ( could be same as this page - see below )
-website:          http://www.stair-rover.com/
+website:          http://chaandp.github.io/
 #
 # 2. URL of this page
-url:              http://[your_username].github.io/
+url:              http://chaandp.github.io/
 #
 # 3. About your kickstarter project
 project:
   #
   # Name of the project
-  name:           Stair-Rover
+  name:           Chaand Patel  |  Portfolio
   #
   # URL of the project. Use short urls to ensure you track the visits (Optional)
-  url:            http://kck.st/12bbLkw
+  url:            https://github.com/chaandp
   #
   # URL of a cover photo of your project
-  cover_image:    http://static.wixstatic.com/media/b11e60_7416a5fc41a5d30b8b458bbe6c23b90f.jpg
+  cover_image:    https://cdn.analyticsvidhya.com/wp-content/uploads/2019/02/data-science.jpg
   #
   # Use a one-liner to describe your project
-  description:    Stair-Rover is a longboard that glides down stairs with a blast.
+  description:    About  Me
 #
 # 4. Your Twitter handle
 twitter_handle:   StairRover
@@ -43,7 +43,4 @@ google_analytics:
 #
 # 6. Welcome text, add <br /> to break lines
 welcome_text:     |
-  This is the Stair-Rover team greeting from London. <br />
-  First of all, thank you for signing up to our mailing list. <br />
-  Here's to tell you that our project is now live on Kickstarter,
-  and now we have to count on your support to not only back the project, but also share the love. ♥
+  My name is Chaand Patel and I am a recent graduate from Rutgers University with a Bachelor of Science in Computer Science with a minor in Critical Inteligence Studies. I have a great interest in the application of data and technology to promote growth and tackle initiatives geared towards understanding the emerging needs of customers. I am a highly motivated individual with a passion for intellectual challenges and data-driven innovation. Currently, I am actively seeking a full-time position in the field of computer science that challenges my skill set as well as broadens my opportunity for growth and would like to welcome the opportunity to connect.
