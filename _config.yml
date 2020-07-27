@@ -6,6 +6,7 @@ rdiscount:
   extensions:     [smart]
 
 # ---------
+---
 # Kickstarter specific settings
 #
 # Basics
@@ -33,7 +34,31 @@ project:
   cover_image:    https://img.freepik.com/free-vector/abstract-minimal-white-background_105940-668.jpg?size=626&ext=jpg&ga=GA1.2.1699440138.1595721600
   #
   # Use a one-liner to describe your project
-  description:    About  Me
+  description:    Data Analyst  |  Data Engineer  |  Data Scientist
+  
+ ---
+ 
+ <style type="text/css">
+
+h1.title {
+  font-size: 38px;
+  color: DarkRed;
+  text-align: center;
+}
+h4.name { /* Header 4 - and the author and data headers use this too  */
+    font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+  color: DarkRed;
+  text-align: center;
+}
+h4.description { /* Header 4 - and the author and data headers use this too  */
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+  color: DarkBlue;
+  text-align: center;
+}
+</style>
+
 #
 # 4. Your Twitter handle
 twitter_handle:   StairRover
