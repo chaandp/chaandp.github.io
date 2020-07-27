@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Hello there!
+## About Me!
 
 {{ site.welcome_text }}
 
-Support us with 3 clicks now!
+Contact me
