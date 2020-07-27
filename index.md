@@ -6,4 +6,4 @@ layout: default
 
 {{ site.welcome_text }}
 
-Contact me
+# Contact me
